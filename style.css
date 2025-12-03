@@ -2,3 +2,7 @@ body {
     background-color: pink;
     color: black;
 }
+
+img {
+max-width: 90%;
+}
